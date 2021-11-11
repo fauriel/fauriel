@@ -1,7 +1,13 @@
-### Hi there 👋
+¡Soy (URIEL)!
 
 
-**fauriel/fauriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+: Tecnologías: ¡Soy desarrollador full satck!
+
+: Ubicación: Soy de México.
+
+: libros: Actualmente estoy aprendiendo todo.
+
+: Objetivos 2021: crear un nuevo proyecto y encontrar un nuevo trabajo
 
 Acerca de Mi
 
@@ -11,3 +17,4 @@ Acerca de Mi
 
 Lenguajes que conozco
 [!HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]
+<code> <img height = "20" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> </code>
