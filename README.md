@@ -25,6 +25,7 @@ Lenguajes que conozco :earth_americas:
 <code> <img height = "20" src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> </code>
 
 FRAMEWORKS :rocket:
+
 <code> <img height = "20" src = "https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"> </code>
 <code> <img height = "20" src = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> </code>
 <code> <img height = "20" src = "https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"> </code>
