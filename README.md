@@ -36,6 +36,9 @@ FRAMEWORKS :rocket:
 CLOUD :cloud:
 
 <code> <img height = "20" src = "https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"> </code>
-<code> <img height = "20" src = "https://github-readme-stats.vercel.app/api?username={fauriel}"> </code>
+
+
+[![fauriel Github stats](https://github-readme-stats.vercel.app/api?username={fauriel)](https://github.com/fauriel/github-readme-stats)
+
 
 
