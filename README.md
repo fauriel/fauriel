@@ -1,7 +1,7 @@
 ¡Soy (URIEL)!
 
 
-: Tecnologías: ¡Soy desarrollador full satck!
+: Tecnologías: ¡Soy desarrollador full stack!
 
 : Ubicación: Soy de México.
 
